@@ -17,7 +17,7 @@ Please view my [LinkedIn](https://www.linkedin.com/in/colekellow/) account for m
 
 - Here is my completion certificate for a Udemy course I completed on geospatial analysis using geopandas in python
 
-![](https://drive.google.com/file/d/1pFGPLy8cPG1V-Sx5BA3utRcnQjMfwFUp/view?usp=drive_link)
+![](https://lh3.googleusercontent.com/drive-viewer/AEYmBYRRlkLOKDNz9DmiJU6m_pMQoSeMYmoGQ-YcpC56KTA4bR3SGNqXwfTMYUQVmsSRaMtzuVUhGdy8eyvM4ATZTZ7k1rubOA=s1600)
 
 
 
