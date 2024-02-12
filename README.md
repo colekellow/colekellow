@@ -43,4 +43,6 @@ Other:
 ![](https://lh3.googleusercontent.com/drive-viewer/AEYmBYRRlkLOKDNz9DmiJU6m_pMQoSeMYmoGQ-YcpC56KTA4bR3SGNqXwfTMYUQVmsSRaMtzuVUhGdy8eyvM4ATZTZ7k1rubOA=s1600)
 
 
+## Resume
 
+![](https://lh3.googleusercontent.com/drive-viewer/AEYmBYQ833I5T5XJBQGlBHpTUhQTGUO6fBZ7qd8Tn-uQvFZNh6ZyVI_VU8LGniWYcxiFRRZ0muTegG1TfCXqogIRx365maQ8eA=s1600)
