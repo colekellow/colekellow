@@ -45,4 +45,4 @@ Other:
 
 ## Resume
 
-![Resume](https://drive.google.com/file/d/1-WrtlxSEd3HvP4Go2zHIVx_9tuXxGA7j/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1-WrtlxSEd3HvP4Go2zHIVx_9tuXxGA7j/view?usp=sharing)
