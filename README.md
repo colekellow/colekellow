@@ -8,6 +8,10 @@ I am a geospatial remote sensing GIS analyst that worked in the sensing and IoT 
 
 Please view my [LinkedIn](https://www.linkedin.com/in/colekellow/) account for my full background.
 
+## Resume
+
+[Resume](https://drive.google.com/file/d/1QM1EO0m3MD5cr1mWPKei_PYhwhhRUELm/view?usp=drive_link)
+
 ## Skills/Technological Knowledge
 
 GIS/GPS/GNSS: 
@@ -47,6 +51,4 @@ Other:
 
 
 
-## Resume
 
-[Resume](https://drive.google.com/file/d/1QM1EO0m3MD5cr1mWPKei_PYhwhhRUELm/view?usp=drive_link)
