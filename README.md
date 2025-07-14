@@ -5,6 +5,7 @@
 I am a geospatial analyst that currently works in the airport/aviation consultant world, and previously worked in the sensing and IoT world of agriculture. This is my GitHub profile where hopefully I can showcase my current and completed projects. 
 
 - 🌱 I’m currently deepening my understanding of Python for geospatial usecases among lots of other things. I will be learning how to perform database spatial queries using SQL and PostGIS/PostgreSQL
+- I am an FAA Part 107 Certified Remote Pilot, and I am passionate about the growth of the Advanced Air Mobility (AAM) industry. 
 
 Please view my [LinkedIn](https://www.linkedin.com/in/colekellow/) account for my full background.
 
