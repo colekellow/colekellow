@@ -43,8 +43,8 @@ Other:
 
 - Here is my completion certificate for a Udemy course I completed on geospatial analysis using geopandas in python
 
-![](https://lh3.googleusercontent.com/drive-viewer/AEYmBYRRlkLOKDNz9DmiJU6m_pMQoSeMYmoGQ-YcpC56KTA4bR3SGNqXwfTMYUQVmsSRaMtzuVUhGdy8eyvM4ATZTZ7k1rubOA=s1600)
-![](https://drive.google.com/file/d/1J_x5sP9vomq4Mxo3g6MDGLsJQpwceyGN/view?usp=drive_link)
+![](https://github.com/colekellow/Test1/blob/main/Udemy%20Spatial%20Analysis%20picture%20certificate.jpeg "Spatial Certificate")
+
 
 
 ## Resume
