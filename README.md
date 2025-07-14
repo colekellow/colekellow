@@ -11,13 +11,16 @@ Please view my [LinkedIn](https://www.linkedin.com/in/colekellow/) account for m
 ## Skills/Technological Knowledge
 
 GIS/GPS/GNSS: 
-- Esri Products (ArcGIS Pro, ArcMap, ArcGIS Online, Model Builder, 3D Analyst)
+- Esri Products (ArcGIS Pro, ArcGIS Online, Model Builder, 3D Analyst)
+    - Experience Builder, Web App Builder, StoryMaps, Dashboards
+    - BIM, CAD, GIS Data and conversion between
+- VertiGIS
 - GeoDa
 - QGIS
 - Google Earth Pro
 - Trimble GNSS
 - Emlid Reach GPS/GNSS
-- UAV operation with RTK technology
+- UAV operation with RTK technology (M300 with Optical/Lidar, Mavic 3E/M, M600 with Hyperspectral, M210) 
 - Experienced field mapping with GPS and by hand (orienteering with map and compass, geologic mapping)
 
 Softwares/Programs: 
