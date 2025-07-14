@@ -2,9 +2,9 @@
 
 ## Introduction 
 
-I am a geospatial remote sensing GIS analyst that worked in the sensing and IoT world of agriculture. This is my GitHub profile where hopefully I can showcase my current and completed projects. 
+I am a geospatial analyst that currently works in the airport/aviation consultant world, and previously worked in the sensing and IoT world of agriculture. This is my GitHub profile where hopefully I can showcase my current and completed projects. 
 
-- 🌱 I’m currently learning how to better code in Python for geospatial usecases among lots of other things. I will be learning how to perform database spatial queries using SQL and PostGIS/PostgreSQL
+- 🌱 I’m currently deepening my understanding of Python for geospatial usecases among lots of other things. I will be learning how to perform database spatial queries using SQL and PostGIS/PostgreSQL
 
 Please view my [LinkedIn](https://www.linkedin.com/in/colekellow/) account for my full background.
 
@@ -38,7 +38,7 @@ Softwares/Programs:
 - Jupyter Notebooks
 
 Other: 
-- Proprietary (Corteva Agriscience) cloud based location visualizer platform similar to ArcGIS Online Story Maps
+- Proprietary (Corteva Agriscience) cloud based location visualizer platform similar to ArcGIS Online StoryMaps
 - Database storage with OneDrive, Box, Confluence
 - Proprietary (Corteva Agriscience) cloud based data analysis and visualization tool used for in-field sensors (weather, soil moisture, evapotranspiration, eddy-covariance, greenhouse gas analyzers)
 
